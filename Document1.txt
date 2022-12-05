@@ -1,2 +1,6 @@
 Here is the initial text.
+<<<<<<< Updated upstream
 And some #1 addition.
+=======
+Some addition by #2.
+>>>>>>> Stashed changes
